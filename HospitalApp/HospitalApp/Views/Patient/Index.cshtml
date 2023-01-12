@@ -1,0 +1,105 @@
+﻿@model HospitalApp.Models.ViewModels.PatientMultiModel
+    @{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int i = 0;
+}
+
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+
+            <!--- end row -->
+
+
+            <div class="row">
+
+
+                <div class="col-lg-12">
+                    <div class="card">
+                        <div class="card-body">
+
+                            <h4 class="mt-0 header-title">Patient Table</h4>
+                            <br />
+                            <a href="~/Patient/Create" class="btn btn-dark mb-4">Patient Add</a>
+                            <br />
+                            <div class="table-responsive">
+                                <table class="table mb-1">
+                                    <thead class="table-dark">
+                                        <tr>
+                                            <th>#</th>
+                                            <th>User</th>
+                                            <th>Room</th>
+                                            <th>Name</th>
+                                            <th>Surname</th>
+                                            <th>TcNumber</th>
+                                            <th>Phone</th>
+                                            <th>Birthday</th>
+                                            <th>Is Active</th>
+                                            <th>Setting</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @if (Model.Patients.Count == 0)
+                                        {
+
+                                            <tr>
+                                                <td colspan="5">Patient is not found.</td>
+                                            </tr>
+                                        }
+                                        else
+                                        {
+                                            foreach (var item in Model.Patients)
+                                            {
+                                                i++;
+                                    <tr>
+                                        <th scope="row">@i</th>
+                                        <td>@item.UserId</td>
+                                        <td>@item.RoomId</td>
+                                        <td>@item.Name</td>
+                                        <td>@item.Surname</td>
+                                        <td>@item.TcNumber</td>
+                                        <td>@item.Phone</td>
+                                        <td>@item.Birthday</td>
+
+
+
+                                        <td>
+
+                                            <input type="checkbox" class="form-check-input" checked="@item.IsActive"
+                                                   value="true" data-val="true" disabled="true" />
+                                        </td>
+                                        <td>
+                                            <a href="~/Patient/Edit/@item.Id" class=" fa fa-edit "></a>
+
+                                            &nbsp;|&nbsp;
+                                            <a href="~/Patient/Delete/@item.Id" class=" fa fa-trash-o"></a>
+                                        </td>
+                                    </tr>
+                                            }
+
+
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+        </div> <!-- container-fluid -->
+    </div> <!-- content -->
+    <!-- Footer Start -->
+    <!-- end Footer -->
+
+</div>
+

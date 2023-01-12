@@ -1,0 +1,62 @@
+﻿@model HospitalApp.Models.Procedure
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+            <div class="row">
+                <div class="col-12">
+                    <div style="background-color: #A9AF7E"  class="card">
+                        <div class="card-body">
+                            <h4 class="header-title">Procedure Edit</h4>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <form method="post">
+
+                                        <div class="mb-3">
+                                            <label for="Name" class="form-label">Procedure Name</label>
+                                            <input type="text" id="Name" name="Name" value="@Model.Name" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Price" class="form-label">Price</label>
+                                            <input type="text" id="Price" name="Price" value="@Model.Price" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="IsActive" class="form-label">Is Active</label>
+                                            <input type="checkbox" id="IsActive" name="IsActive" class="form-check-input"
+                                                   value="true" data-val="true" checked="@Model.IsActive">
+                                        </div>
+                                        <br />
+                                        <p class="text-blue">@ViewBag.Mesaj</p>
+                                        <br />
+                                        <br />
+                                        <input type="hidden" value="@Model.Id" name="Id" id="Id" />
+                                        <button type="submit" class="btn btn-dark">Save</button>
+
+                                    </form>
+                                </div> <!-- end col -->
+                            </div>
+                            <!-- end row-->
+
+                        </div> <!-- end card-body -->
+                    </div> <!-- end card -->
+                </div><!-- end col -->
+            </div>
+
+        </div> <!-- container -->
+
+    </div> <!-- content -->
+    <!-- Footer Start -->
+    <!-- end Footer -->
+
+</div>
+

@@ -1,0 +1,100 @@
+﻿@model  HospitalApp.Models.ViewModels.UserMultiModel
+@{ ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+  }
+
+
+
+
+<h2>Edit</h2>
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+            <div class="row">
+                <div class="col-12">
+                    <div  style="background-color: #A9AF7E" class="card">
+                        <div class="card-body">
+                            <h4 class="header-title">User Edit</h4>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <form method="post">
+
+                                        <div class="mb-3">
+                                            <label for="UserName" class="form-label">User Name</label>
+                                            <input type="text" id="UserName" name="UserName" value="@Model.User.UserName" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Password" class="form-label">Password</label>
+                                            <input type="text" id="Password" name="Password" value="@Model.User.Password" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Email" class="form-label">Email</label>
+                                            <input type="email" id="Email" name="Email" value="@Model.User.Email" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Category" class="form-label">Category</label>
+                                            <select id="CategoryId" name="CategoryId" class="form-control">
+                                                <optgroup>
+                                                    <option value="@Model.User.Category.Id">@Model.User.Category.Name</option>
+                                                </optgroup>
+
+                                                @foreach (var cat in Model.Categories)
+                                                {
+                                    <option value="@cat.Id">@cat.Name</option>}
+
+                                            </select>
+
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Name" class="form-label">Name</label>
+                                            <input type="text" id="Name" name="Name" value="@Model.User.Name" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Surname" class="form-label">Surname</label>
+                                            <input type="text" id="Surname" name="Surname" value="@Model.User.Surname" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="BirthDay" class="form-label">BirthDay</label>
+                                            <input type="date" id="BirthDay" name="BirthDay" value="@Model.User.BirthDay" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Phone" class="form-label">Phone</label>
+                                            <input type="tel" id="Phone" name="Phone" value="@Model.User.Phone" class="form-control">
+                                        </div>
+
+                                        <div class="mb-3">
+                                            <label for="IsActive" class="form-label">Is Active</label>
+                                            &nbsp;&nbsp;
+                                            &nbsp;&nbsp;
+                                            <input type="checkbox" id="IsActive" name="IsActive" class="form-check-input"
+                                                   value="true" data-val="true" checked=" @Model.User.IsActive">
+                                        </div>
+                                        <input type="hidden" name="Id" id="Id" value="@Model.User.Id" />
+                                        <br />
+                                        <p class="text-blue">@ViewBag.mesaj</p>
+                                        <br />
+                                        <br />
+                                        <button type="submit" class="btn btn-dark">Save</button>
+
+                                    </form>
+                                </div> <!-- end col -->
+                            </div>
+                            <!-- end row-->
+
+                        </div> <!-- end card-body -->
+                    </div> <!-- end card -->
+                </div><!-- end col -->
+            </div>
+
+        </div> <!-- container -->
+
+    </div> <!-- content -->
+    <!-- Footer Start -->
+    <!-- end Footer -->
+
+</div>
+

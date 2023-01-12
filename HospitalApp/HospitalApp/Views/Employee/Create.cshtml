@@ -1,0 +1,131 @@
+﻿
+
+@model HospitalApp.Models.ViewModels.EmployeeMultiModel
+@{ ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+
+            <!--- end row -->
+
+
+            <div class="row">
+
+
+                <div class="col-lg-12">
+                    <div style="background-color: #A9AF7E" class="card">
+                        <div class="card-body">
+                            <h4 class="header-title">Employee Create</h4>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <form method="post">
+
+
+
+                                        <div class="mb-3">
+                                            <label for="Category" class="form-label ">Category</label>
+                                            <select id="CategoryId" name="CategoryId" class="form-control ">
+                                                @foreach (var item in Model.Categories)
+                                                {
+                                                    <option value="@item.Id">@item.Name</option>
+                                                }
+
+                                            </select>
+
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Department" class="form-label ">Department</label>
+                                            <select id="DepartmentId" name="DepartmentId" class="form-control ">
+                                                @foreach (var item in Model.Departments)
+                                                {
+                                                    <option value="@item.Id">@item.Name</option>
+                                                }
+
+                                            </select>
+
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Room" class="form-label ">Room</label>
+                                            <select id="RoomId" name="RoomId" class="form-control ">
+                                                @foreach (var item in Model.Rooms)
+                                                {
+                                                    <option value="@item.Id">@item.Name</option>
+                                                }
+
+                                            </select>
+
+                                        </div>
+
+                                        <div class="mb-3">
+                                            <label for="TcNumber" class="form-label">TcNumber</label>
+                                            <input type="text" id="TcNumber" name="TcNumber" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="image" class="form-label">Employee Images</label>
+                                            <input type="file" id="image" name="image" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Name" class="form-label">Name</label>
+                                            <input type="text" id="Name" name="Name" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Surname" class="form-label">Surname</label>
+                                            <input type="text" id="Surname" name="Surname" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Birthday" class="form-label">Birthday</label>
+                                            <input type="date" id="Birthday" name="Birthday" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Phone" class="form-label">Phone</label>
+                                            <input type="tel" id="Phone" name="Phone" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Email" class="form-label">Email</label>
+                                            <input type="email" id="Email" name="Email" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Salary" class="form-label">Salary</label>
+                                            <input type="number" id="Salary" name="Salary" class="form-control">
+                                        </div>
+                                        <br />
+                                        <div class="mb-3">
+                                            <label for="IsActive" class="form-label">Is Active</label>
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            <input type="checkbox" id="IsActive" name="IsActive" class="form-check-input"
+                                                   value="true" data-val="true" checked="checked">
+                                        </div>
+                                        <br />
+                                        <p class="text-blue">@ViewBag.mesaj</p>
+                                        <br />
+                                        <br />
+                                        <button type="submit" class="btn btn-dark">Save</button>
+
+                                    </form>
+                                </div> <!-- end col -->
+                            </div>
+                            <!-- end row-->
+
+                        </div> <!-- end card-body -->
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+
+    </div> <!-- container-fluid -->
+</div> <!-- content -->
+<!-- Footer Start -->
+<!-- end Footer -->

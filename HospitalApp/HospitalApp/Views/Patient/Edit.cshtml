@@ -1,0 +1,113 @@
+﻿@model HospitalApp.Models.ViewModels.PatientMultiModel
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+
+            <!--- end row -->
+
+
+            <div class="row">
+
+
+                <div class="col-lg-12">
+                    <div style="background-color: #A9AF7E" class="card">
+                        <div class="card-body">
+                            <h4 class="header-title">Patient Create</h4>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <form method="post">
+                                        <div class="mb-3">
+                                            <label for="User" class="form-label ">User</label>
+                                            <select id="UserId" name="UserId"  class="form-control ">
+                                                <optgroup>
+                                                    <option value="@Model.Patient.User.Id">@Model.Patient.User.Name</option>
+                                                </optgroup>
+                                                @foreach (var item in Model.Users)
+                                                {
+                                                    <option value="@item.Id">@item.Name</option>
+                                                }
+
+                                            </select>
+
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Room" class="form-label ">Room</label>
+                                            <select id="RoomId" name="RoomId" class="form-control ">
+                                                <optgroup>
+                                                    <option value="@Model.Patient.Room.Id">@Model.Patient.Room.Name</option>
+                                                </optgroup>
+                                                @foreach (var item in Model.Rooms)
+                                                {
+                                                    <option value="@item.Id">@item.Name</option>
+                                                }
+
+                                            </select>
+
+                                        </div>
+
+
+
+
+                                        <div class="mb-3">
+                                            <label for="Name" class="form-label">Name</label>
+                                            <input type="text" value="@Model.Patient.Name" id="Name" name="Name" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Surname" class="form-label">Surname</label>
+                                            <input type="text" id="Surname"value="@Model.Patient.Surname" name="Surname" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="TcNumber" class="form-label">TcNumber</label>
+                                            <input type="text" id="TcNumber" name="TcNumber" value="@Model.Patient.TcNumber" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Birthday" class="form-label">Birthday</label>
+                                            <input type="date" id="Birthday" name="Birthday" value="@Model.Patient.Birthday" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Phone" class="form-label">Phone</label>
+                                            <input type="tel" id="Phone" name="Phone" value="@Model.Patient.Phone" class="form-control">
+                                        </div>
+
+                                        <br />
+                                        <div class="mb-3">
+                                            <label for="IsActive" class="form-label">Is Active</label>
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            <input type="checkbox" id="IsActive" name="IsActive" class="form-check-input"
+                                                   value="true" data-val="true" checked="@Model.Patient.IsActive">
+                                        </div>
+                                        <br />
+                                        <input type="hidden" name="Id" id="Id" value="@Model.Patient.Id" />
+                                        <p class="text-blue">@ViewBag.mesaj</p>
+                                        <br />
+                                        <br />
+                                        <button type="submit" class="btn btn-dark">Save</button>
+
+                                    </form>
+                                </div> <!-- end col -->
+                            </div>
+                            <!-- end row-->
+
+                        </div> <!-- end card-body -->
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+
+    </div> <!-- container-fluid -->
+</div>

@@ -1,0 +1,139 @@
+﻿@model HospitalApp.Models.ViewModels.EmployeeMultiModel
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+
+            <!--- end row -->
+
+
+            <div class="row">
+
+
+                <div class="col-lg-12">
+                    <div style="background-color: #A9AF7E" class="card">
+                        <div class="card-body">
+                            <h4 class="header-title">Employee Create</h4>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <form method="post">
+
+
+
+                                        <div class="mb-3">
+                                            <label for="Category" class="form-label ">Category</label>
+                                            <select id="CategoryId" name="CategoryId" class="form-control ">
+                                                <optgroup>
+                                                    <option value="@Model.Employee.Category.Id">@Model.Employee.Category.Name</option>
+                                                </optgroup>
+                                                @foreach (var item in Model.Categories)
+                                                {
+                                                    <option value="@item.Id">@item.Name</option>
+                                                }
+
+                                            </select>
+
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Department" class="form-label ">Department</label>
+                                            <select id="DepartmentId" name="DepartmentId" class="form-control ">
+                                                <optgroup>
+                                                    <option value="@Model.Employee.Department.Id">@Model.Employee.Department.Name</option>
+                                                </optgroup>
+                                                @foreach (var item in Model.Departments)
+                                                {
+                                                    <option value="@item.Id">@item.Name</option>
+                                                }
+
+                                            </select>
+
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Room" class="form-label ">Room</label>
+                                            <select id="RoomId" name="RoomId" class="form-control ">
+                                                <optgroup>
+                                                    <option value="@Model.Employee.Room.Id">@Model.Employee.Room.Name</option>
+                                                </optgroup>
+                                                @foreach (var item in Model.Rooms)
+                                                {
+                                                    <option value="@item.Id">@item.Name</option>
+                                                }
+
+                                            </select>
+
+                                        </div>
+
+                                        <div class="mb-3">
+                                            <label for="TcNumber" class="form-label">TcNumber</label>
+                                            <input type="text" value="@Model.Employee.TcNumber" id="TcNumber" name="TcNumber" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="image" class="form-label">Employee Images</label>
+                                            <input type="file" value="@Model.Employee.Image" id="image" name="image" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Name" class="form-label">Name</label>
+                                            <input type="text" value="@Model.Employee.Name" id="Name" name="Name" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Surname" class="form-label">Surname</label>
+                                            <input type="text" value="@Model.Employee.Surname" id="Surname" name="Surname" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Birthday" class="form-label">Birthday</label>
+                                            <input type="date" value="@Model.Employee.Birthday" id="Birthday" name="Birthday" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Phone" class="form-label">Phone</label>
+                                            <input type="tel" value="@Model.Employee.Phone" id="Phone" name="Phone" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Email" class="form-label">Email</label>
+                                            <input type="email" value="@Model.Employee.Email" id="Email" name="Email" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Salary" class="form-label">Salary</label>
+                                            <input type="number" value="@Model.Employee.Salary" id="Salary" name="Salary" class="form-control">
+                                        </div>
+                                        <br />
+                                        <div class="mb-3">
+                                            <label for="IsActive" class="form-label">Is Active</label>
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            <input type="checkbox" id="IsActive" name="IsActive" class="form-check-input"
+                                                   value="true" data-val="true" checked="value=" @Model.Employee.IsActive "">
+                                        </div>
+                                        <br />
+                                        <input type="hidden" name="Id" id="Id" value="@Model.Employee.Id" />
+                                        <p class="text-blue">@ViewBag.mesaj</p>
+                                        <br />
+                                        <br />
+                                        <button type="submit" class="btn btn-dark">Save</button>
+
+                                    </form>
+                                </div> <!-- end col -->
+                            </div>
+                            <!-- end row-->
+
+                        </div> <!-- end card-body -->
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+
+    </div> <!-- container-fluid -->
+</div> <!-- content -->

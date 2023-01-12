@@ -1,0 +1,90 @@
+﻿@model HospitalApp.Models.ViewModels.PrescriptionMultiModel
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+
+            <!--- end row -->
+
+
+            <div class="row">
+
+
+                <div class="col-lg-12">
+                    <div style="background-color: #A9AF7E" class="card">
+                        <div class="card-body">
+                            <h4 class="header-title">Employee Create</h4>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <form method="post">
+
+
+
+                                        <div class="mb-3">
+                                            <label for="Procedure" class="form-label ">Procedure</label>
+                                            <select id="ProcedureId" name="ProcedureId" class="form-control ">
+                                                @foreach (var item in Model.Procedures)
+                                                {
+                                                    <option value="@item.Id">@item.Name</option>
+                                                }
+
+                                            </select>
+
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="User" class="form-label ">User</label>
+                                            <select id="UserId" name="UserId" class="form-control ">
+                                                @foreach (var item in Model.Users)
+                                                {
+                                                    <option value="@item.Id">@item.Name</option>
+                                                }
+
+                                            </select>
+
+                                        </div>
+
+                                        <div class="mb-3">
+                                            <label for="Name" class="form-label">Name</label>
+                                            <input type="text" id="Name" name="Name" class="form-control">
+                                        </div>
+
+                                        <br />
+                                        <div class="mb-3">
+                                            <label for="IsActive" class="form-label">Is Active</label>
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            <input type="checkbox" id="IsActive" name="IsActive" class="form-check-input"
+                                                   value="true" data-val="true" checked="checked">
+                                        </div>
+                                        <br />
+                                        <p class="text-blue">@ViewBag.mesaj</p>
+                                        <br />
+                                        <br />
+                                        <button type="submit" class="btn btn-dark">Save</button>
+
+                                    </form>
+                                </div> <!-- end col -->
+                            </div>
+                            <!-- end row-->
+
+                        </div> <!-- end card-body -->
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+
+    </div> <!-- container-fluid -->
+</div> <!-- content -->

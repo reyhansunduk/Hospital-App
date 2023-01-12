@@ -1,0 +1,102 @@
+﻿@model  List<HospitalApp.Models.Category>
+@{ ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int i = 0; }
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+
+            <!--- end row -->
+
+
+            <div class="row">
+
+
+                <div class="col-lg-12">
+                    <div style="background-color: #A9AF7E" class="card">
+                        <div class="card-body">
+                            <h4 class="header-title">User Create</h4>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <form method="post">
+
+                                        <div class="mb-3">
+                                            <label for="UserName" class="form-label">User Name</label>
+                                            <input type="text" id="UserName" name="UserName" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Password" class="form-label">Password</label>
+                                            <input type="text" id="Password" name="Password" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Email" class="form-label">Email</label>
+                                            <input type="email" id="Email" name="Email" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Category" class="form-label ">Category</label>
+                                            <select id="CategoryId" name="CategoryId" class="form-control ">
+                                                @foreach (var cat in Model)
+                                                {
+                                    <option value="@cat.Id">@cat.Name</option>
+}
+
+                                            </select>
+
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Name" class="form-label">Name</label>
+                                            <input type="text" id="Name" name="Name" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Surname" class="form-label">Surname</label>
+                                            <input type="text" id="Surname" name="Surname" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="BirthDay" class="form-label">BirthDay</label>
+                                            <input type="date" id="BirthDay" name="BirthDay" class="form-control">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Phone" class="form-label">Phone</label>
+                                            <input type="tel" id="Phone" name="Phone" class="form-control">
+                                        </div>
+                                        <br />
+                                        <div class="mb-3">
+                                            <label for="IsActive" class="form-label">Is Active</label>
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            <input type="checkbox" id="IsActive" name="IsActive" class="form-check-input"
+                                                   value="true" data-val="true" checked="checked">
+                                        </div>
+                                        <br />
+                                        <p class="text-blue">@ViewBag.mesaj</p>
+                                        <br />
+                                        <br />
+                                        <button type="submit" class="btn btn-dark">Save</button>
+
+                                    </form>
+                                </div> <!-- end col -->
+                            </div>
+                            <!-- end row-->
+
+                        </div> <!-- end card-body -->
+                    </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+        </div> <!-- container-fluid -->
+    </div> <!-- content -->
+    <!-- Footer Start -->
+    <!-- end Footer -->
+
+</div>

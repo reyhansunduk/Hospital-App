@@ -1,0 +1,871 @@
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\csc.exe
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\csc.exe.config
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\csc.rsp
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\csi.exe
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\csi.exe.config
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\csi.rsp
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.AppContext.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Console.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Net.Http.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\vbc.exe
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\vbc.exe.config
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\vbc.rsp
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\EntityFramework.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Helpers.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Mvc.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Razor.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Webpages.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\EntityFramework.xml
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.xml
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Razor.xml
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Webpages.xml
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Helpers.xml
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\System.Web.Mvc.xml
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.ilkolusturma.resources
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma.resources
+C:\Users\elif\Downloads\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma2.resources
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\csc.exe
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\csc.exe.config
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\csc.rsp
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\csi.exe
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\csi.exe.config
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\csi.rsp
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.AppContext.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Console.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Net.Http.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\vbc.exe
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\vbc.exe.config
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\vbc.rsp
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\EntityFramework.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Helpers.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Mvc.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Razor.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Webpages.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\EntityFramework.xml
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.xml
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Razor.xml
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Webpages.xml
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Helpers.xml
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\System.Web.Mvc.xml
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.ilkolusturma.resources
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma.resources
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma2.resources
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\reyha\Desktop\ERP\Hastane Yönetim Sistemi\18.12.2022 17.08\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csc.exe
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csc.exe.config
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csc.rsp
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csi.exe
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csi.exe.config
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csi.rsp
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.AppContext.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Console.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Net.Http.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\vbc.exe
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\vbc.exe.config
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\vbc.rsp
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\EntityFramework.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Helpers.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Mvc.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Razor.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\EntityFramework.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Razor.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Helpers.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Mvc.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.ilkolusturma.resources
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma.resources
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma2.resources
+C:\Users\reyha\Desktop\20.12.22_16.50\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.forenkeyolusturma3.resources
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csc.exe
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csc.exe.config
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csc.rsp
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csi.exe
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csi.exe.config
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\csi.rsp
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.AppContext.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Console.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Net.Http.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\vbc.exe
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\vbc.exe.config
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\vbc.rsp
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\EntityFramework.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Helpers.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Mvc.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Razor.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\EntityFramework.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Razor.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Helpers.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\System.Web.Mvc.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.ilkolusturma.resources
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\reyha\Desktop\20.12.22_16.50\20.53\19.12.22_16.55\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.forenkeyolusturma.resources
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\csc.exe
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\csc.exe.config
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\csc.rsp
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\csi.exe
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\csi.exe.config
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\csi.rsp
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.AppContext.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Console.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Net.Http.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\vbc.exe
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\vbc.exe.config
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\vbc.rsp
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\EntityFramework.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Helpers.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Mvc.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Razor.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Webpages.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\EntityFramework.xml
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.xml
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Razor.xml
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Webpages.xml
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Helpers.xml
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\System.Web.Mvc.xml
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.ilkolusturma.resources
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma1.resources
+C:\Users\elif\Desktop\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma2.resources
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\csc.exe
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\csc.exe.config
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\csc.rsp
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\csi.exe
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\csi.exe.config
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\csi.rsp
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.AppContext.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Console.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Net.Http.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\vbc.exe
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\vbc.exe.config
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\vbc.rsp
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\EntityFramework.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Helpers.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Mvc.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Razor.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Webpages.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\EntityFramework.xml
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.xml
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Razor.xml
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Webpages.xml
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Helpers.xml
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\System.Web.Mvc.xml
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.ilkolusturma.resources
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma1.resources
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma2.resources
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\reyha\Desktop\20.23_güncel\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.exe
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.exe.config
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.rsp
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.exe
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.exe.config
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.rsp
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.AppContext.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Console.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Net.Http.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.exe
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.exe.config
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.rsp
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Helpers.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Mvc.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Razor.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.xml
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.xml
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Razor.xml
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.xml
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Helpers.xml
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Mvc.xml
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.ilkolusturma.resources
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma1.resources
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma2.resources
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma3.resources
+C:\Users\elif\Desktop\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma4.resources
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.exe
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.exe.config
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.rsp
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.exe
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.exe.config
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.rsp
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.AppContext.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Console.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Net.Http.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.exe
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.exe.config
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.rsp
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Helpers.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Mvc.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Razor.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.xml
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.xml
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Razor.xml
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.xml
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Helpers.xml
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Mvc.xml
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.ilkolusturma.resources
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma1.resources
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma2.resources
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma3.resources
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma4.resources
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\reyha\Desktop\24 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.forenkeyolusturma5.resources
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.ilkolusturma.resources
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma1.resources
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma2.resources
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma3.resources
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma4.resources
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.forenkeyolusturma5.resources
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.exe
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.exe.config
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.rsp
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.exe
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.exe.config
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.rsp
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.AppContext.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Console.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Net.Http.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.exe
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.exe.config
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.rsp
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Helpers.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Mvc.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Razor.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.xml
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.xml
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Razor.xml
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.xml
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Helpers.xml
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Mvc.xml
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\reyha\Desktop\güncel 27 aralık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.exe
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.exe.config
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csc.rsp
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.exe
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.exe.config
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\csi.rsp
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.AppContext.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Console.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Net.Http.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.exe
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.exe.config
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\vbc.rsp
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Helpers.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Mvc.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Razor.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.xml
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\EntityFramework.SqlServer.xml
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Razor.xml
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.xml
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Helpers.xml
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\System.Web.Mvc.xml
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.ilkolusturma.resources
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma1.resources
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma2.resources
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma3.resources
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.foreignkeyolusturma4.resources
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Migrations.forenkeyolusturma5.resources
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.cache
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CopyComplete
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\reyha\Desktop\28araık\HospitalApp (2)\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb

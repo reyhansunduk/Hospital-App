@@ -1,0 +1,94 @@
+﻿@model  HospitalApp.Models.ViewModels.RoomMultiModel
+@{ ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+     }
+
+<div class="content-page">
+    <div class="content">
+
+        <!-- Start Content-->
+        <div class="container-fluid">
+
+
+            <!--- end row -->
+
+
+            <div class="row">
+
+
+                <div class="col-lg-12">
+                    <div style="background-color: #A9AF7E" class="card">
+                        <div class="card-body">
+                            <h4 class="header-title">Room Create</h4>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <form method="post">
+
+                                        <div class="mb-3">
+                                            <label for="Name" class="form-label">Room Name</label>
+                                            <input type="text" id="Name" name="Name" class="form-control" value="@Model.Room.Name">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Capacity" class="form-label">Capacity</label>
+                                            <input type="text" id="Capacity" name="Capacity" class="form-control"value="@Model.Room.Capacity">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="State" class="form-label">State</label>
+                                            <input type="text" id="State" name="State" class="form-control"value="@Model.Room.State">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="RoomPrice" class="form-label">Room Price</label>
+                                            <input type="text" id="RoomPrice" name="RoomPrice" class="form-control"value="@Model.Room.RoomPrice">
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="Department" class="form-label ">Department</label>
+                                            <select id="DepartmentId" name="DepartmentId" class="form-control ">
+                                                <optgroup>
+                                                    <option value="@Model.Room.Department.Id">@Model.Room.Department.Name</option>
+                                                </optgroup>
+                                                @foreach (var dep in Model.Departments)
+                                                {
+                                            <option value="@dep.Id">@dep.Name</option>
+}
+
+                                            </select>
+
+                                        </div>
+
+                                        <br />
+                                        <div class="mb-3">
+                                            <label for="IsActive" class="form-label">Is Active</label>
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            &nbsp;
+                                            <input type="checkbox" id="IsActive" name="IsActive" class="form-check-input"
+                                                   value="true" data-val="true" checked="@Model.Room.IsActive">
+                                        </div>
+                                        <input type="hidden" name="Id" id="Id" value="@Model.Room.Id"/>   
+                                        <br />
+                                        <p class="text-blue">@ViewBag.mesaj</p>
+                                        <br />
+                                        <br />
+                                        <button type="submit" class="btn btn-dark">Save</button>
+
+                                    </form>
+                                </div> <!-- end col -->
+                            </div>
+                            <!-- end row-->
+
+                        </div> <!-- end card-body -->
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+
+    </div> <!-- container-fluid -->
+</div> <!-- content -->
+<!-- Footer Start -->
+<!-- end Footer -->
+</div>
